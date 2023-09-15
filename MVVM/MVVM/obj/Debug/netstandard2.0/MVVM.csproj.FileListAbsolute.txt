@@ -1,0 +1,16 @@
+C:\RM_OOP\MVVM\MVVM\MVVM\bin\Debug\netstandard2.0\MVVM.deps.json
+C:\RM_OOP\MVVM\MVVM\MVVM\bin\Debug\netstandard2.0\MVVM.dll
+C:\RM_OOP\MVVM\MVVM\MVVM\bin\Debug\netstandard2.0\ref\MVVM.dll
+C:\RM_OOP\MVVM\MVVM\MVVM\bin\Debug\netstandard2.0\MVVM.pdb
+C:\RM_OOP\MVVM\MVVM\MVVM\obj\Debug\netstandard2.0\MVVM.csproj.AssemblyReference.cache
+C:\RM_OOP\MVVM\MVVM\MVVM\obj\Debug\netstandard2.0\MVVM.GeneratedMSBuildEditorConfig.editorconfig
+C:\RM_OOP\MVVM\MVVM\MVVM\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\RM_OOP\MVVM\MVVM\MVVM\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\RM_OOP\MVVM\MVVM\MVVM\obj\Debug\netstandard2.0\View\Page1.xaml.g.cs
+C:\RM_OOP\MVVM\MVVM\MVVM\obj\Debug\netstandard2.0\MVVM.AssemblyInfoInputs.cache
+C:\RM_OOP\MVVM\MVVM\MVVM\obj\Debug\netstandard2.0\MVVM.AssemblyInfo.cs
+C:\RM_OOP\MVVM\MVVM\MVVM\obj\Debug\netstandard2.0\MVVM.csproj.CoreCompileInputs.cache
+C:\RM_OOP\MVVM\MVVM\MVVM\obj\Debug\netstandard2.0\XamlC.stamp
+C:\RM_OOP\MVVM\MVVM\MVVM\obj\Debug\netstandard2.0\MVVM.dll
+C:\RM_OOP\MVVM\MVVM\MVVM\obj\Debug\netstandard2.0\refint\MVVM.dll
+C:\RM_OOP\MVVM\MVVM\MVVM\obj\Debug\netstandard2.0\MVVM.pdb
